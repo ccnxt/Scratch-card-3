@@ -1,0 +1,7 @@
+scratchstrategy-demo/
+├── pages/
+│   ├── _app.js
+│   └── index.js ← This file is critical!
+├── components/
+│   └── ProfessionalScratchDemo.js
+└── [other files...] 
